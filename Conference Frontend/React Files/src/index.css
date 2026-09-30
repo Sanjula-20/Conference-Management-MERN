@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html, body {
+  overflow-x: hidden;
+  font-size: var(--global-font-size, 16px);
+  font-family: var(--global-font-family, 'Poppins', sans-serif);
+  font-weight: var(--global-font-weight, 400);
+  font-style: var(--global-font-style, normal);
+  line-height: var(--global-line-height, 1.5);
+}
+
+/* Global font styles */
